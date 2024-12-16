@@ -2,7 +2,8 @@ One of the first programming principles I learned was DRY: Don’t Repeat Yourse
 
 Allow me to introduce myself: I’m Geoffrey Hendrikx, a graduate of two universities in the Netherlands and the founder of Enchanted Works. We are currently crafting a game called Nomori, a project close to my heart.
 
-Where I want to write about today is one of the most hated game design pattern. the Singleton
+Where I want to write about today is one of the most hated game design pattern. 
+The Singleton
 ![image](https://github.com/user-attachments/assets/bd5510f2-6871-440f-aa94-69d22ed36664)
 
 
